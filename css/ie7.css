@@ -1,0 +1,19 @@
+#video_container-titlebar a{
+	margin-top:-15px;
+}
+
+#search_detail table
+{
+	width:65%;
+}
+#toolbox i {display:none}
+
+#search-detail table
+{
+	width:65%;
+}
+
+#toggle-map-display i
+{
+	margin-left:5px;
+}

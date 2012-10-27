@@ -1,0 +1,44 @@
+.table-detailed
+{
+	font-size:12px;
+}
+.toolbox-topic
+{
+	font-size:15px;
+}
+.input-spanall
+{
+	height:30px;
+}
+	#search-detail table td
+	{
+		font-size:11px;
+	}
+.font16, .font16 input
+{
+	font-size:12px;
+}
+#video_container-titlebar a
+	{
+		font-size:23px;
+	}
+.toolbox-content label input:focus {
+	outline:none;
+}
+.toolbox-content label input{
+	padding:0px;
+}
+
+#current_linedata {
+	font-size:10px;
+}
+
+#hdm4buttongroup a
+{
+	width: 75px;
+}
+
+#hdm4pager img
+{
+	max-width: 25px;
+}

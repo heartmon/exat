@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+}
+p small {
+  font-size: 11px;
+}
+.lead {
+  font-size: 20px;
+}
+blockquote p {
+  font-size: 16px;
+}
+pre {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 12px;
+}
+pre {
+  font-size: 12.025px;
+}
+.label,
+.badge {
+  font-size: 10.998px;
+}
+legend {
+  font-size: 19.5px;
+}
+legend small {
+  font-size: 13.5px;
+} 
+label,input,button,select,textarea {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+}
+select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],
+input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],
+input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input {
+  font-size: 13px;
+}
+.btn {
+  font-size: 13px;
+}
+.btn-large {
+  font-size: 15px;
+}
+.btn-small {  font-size: 11px; }
+.btn-mini {  font-size: 11px; }
+.nav .nav-header {
+  font-size: 11px;
+}
+.navbar .brand {
+  font-size: 20px;
+}
+.navbar-search .search-query {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+}
+.progress .bar {
+  font-size: 12px;
+}
+.hero-unit h1 {
+  font-size: 60px;
+}
+.hero-unit p {
+  font-size: 18px;
+}
+.tooltip {
+  font-size: 11px;
+}
+.carousel-control {
+  font-size: 60px;
+}
+.close {
+  font-size: 20px;
+}
+h1 {
+  font-size: 26px;
+  line-height: 36px;
+}
+h1 small {
+  font-size: 18px;
+}
+h2 {
+  font-size: 20px;
+  line-height: 36px;
+}
+h3 {
+  font-size: 13px;
+  line-height: 27px;
+}
+h3 small {
+  font-size: 14px;
+}
